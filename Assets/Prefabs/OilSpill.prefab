@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 3956806966163743827}
   - component: {fileID: 873361734583206680}
   - component: {fileID: 1760483607330984358}
-  - component: {fileID: -8225711819037616212}
   m_Layer: 0
   m_Name: OilSpill
   m_TagString: OilSpills
@@ -107,24 +106,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.28, y: 1.27}
   m_EdgeRadius: 0
---- !u!50 &-8225711819037616212
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6151056703132709830}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 1
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0

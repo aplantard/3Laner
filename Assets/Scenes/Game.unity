@@ -674,7 +674,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 20
+  far clip plane: 15
   field of view: 60
   orthographic: 1
   orthographic size: 5
@@ -1061,7 +1061,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -1542,6 +1542,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284389105683071328, guid: f912bf791dfc4ed408bfeead4b075eda,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: 348326257
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284389105683071328, guid: f912bf791dfc4ed408bfeead4b075eda,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f912bf791dfc4ed408bfeead4b075eda, type: 3}
