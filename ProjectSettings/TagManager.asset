@@ -46,3 +46,9 @@ TagManager:
   - name: Player
     uniqueID: 348326257
     locked: 0
+  - name: Coins
+    uniqueID: 1870259121
+    locked: 0
+  - name: OilSpills
+    uniqueID: 281201131
+    locked: 0
